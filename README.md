@@ -54,7 +54,9 @@ Flipkart-Product-Analysis/
 ```
 
 ---
+## 📸 Dashboard Preview
 
+![Flipkart Product Analysis Dashboard](Tableau/Dashboard.png)
 ## 📊 Dashboard Features
 
 The Tableau dashboard includes the following visualizations:
